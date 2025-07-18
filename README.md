@@ -35,20 +35,13 @@ I'm currently pursuing **B.Tech in Artificial Intelligence & Machine Learning** 
 
 ---
 
-### 🏠 EchoNest – AI Smart Home Assistant
-- Voice-controlled appliance automation using speech recognition
-- PyTorch + FastAPI backend deployed on AWS EC2
-- Reduced manual effort by 40%
-
----
-
-### 🎂 AutoBday – AI-Based Birthday Wish Responder
+### 🎂 AutoBday – AI-Based Birthday Wish Responder(https://github.com/Sahilsharma1705/ai_autoreply)
 - Hugging Face-based AI agent for auto-replying to birthday wishes
 - 95% user satisfaction; REST API integrated
 
 ---
 
-### 🌐 Para Language Recognition
+### 🌐 Para Language Recognition(https://github.com/Sahilsharma1705/sign-language)
 - CNN-based multilingual speech classifier
 - 92% accuracy using TensorFlow & OpenCV
 
